@@ -1,0 +1,11 @@
+.ReactTable .-header{
+    background-color: #f0eadf;
+    font-weight: bold;
+}
+
+.ReactTable {
+    font-family: Calibri, Candara, Segoe;
+    font-size: 14px; 
+    font-style: normal;
+}
+

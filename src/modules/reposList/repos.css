@@ -1,0 +1,17 @@
+.table-root {
+    width: '100%'
+}
+
+.table{
+    min-width: 500
+}
+
+.wrapper{
+    overflow-x: auto;
+}
+
+.pagination-icons{
+    flex-shrink: 0;
+    color: black;
+    margin-left: 2px;
+}
